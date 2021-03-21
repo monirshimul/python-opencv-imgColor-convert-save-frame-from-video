@@ -3,6 +3,8 @@
 # to activate env 
 myEnv\Scripts\activate
 
+# pip install -r requirements.txt
+
 
 # Scripts to write
     python changeImage.py "G:\Monir\Dataset\rgb\fake\*.png" "G:\Monir\Dataset\Luv\fake\"
