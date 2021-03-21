@@ -1,0 +1,8 @@
+# pip install virtualenv
+# virtualenv mypython
+# to activate env 
+myEnv\Scripts\activate
+
+
+# Scripts to write
+    python changeImage.py "G:\Monir\Dataset\rgb\fake\*.png" "G:\Monir\Dataset\Luv\fake\"
