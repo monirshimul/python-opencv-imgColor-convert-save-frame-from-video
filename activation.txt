@@ -6,3 +6,6 @@ myEnv\Scripts\activate
 
 # Scripts to write
     python changeImage.py "G:\Monir\Dataset\rgb\fake\*.png" "G:\Monir\Dataset\Luv\fake\"
+
+# Script to Save frame from video
+    python saveFrame.py G:\Monir\Dataset\VideoToFrame\Video\fake47.mp4 G:\Monir\Dataset\VideoToFrame\Frame
